@@ -1,0 +1,13 @@
+reg_no,student_name,module,date,status
+22RP001,Jean Claude Habimana,Web Development,2026-10-05,Present
+22RP001,Jean Claude Habimana,Web Development,2026-10-12,Present
+22RP001,Jean Claude Habimana,Web Development,2026-10-19,Absent
+22RP001,Jean Claude Habimana,Databases,2026-10-06,Present
+22RP001,Jean Claude Habimana,Databases,2026-10-13,Present
+22RP001,Jean Claude Habimana,Databases,2026-10-20,Present
+22RP002,Aline Mukamana,Web Development,2026-10-05,Present
+22RP002,Aline Mukamana,Web Development,2026-10-12,Absent
+22RP002,Aline Mukamana,Web Development,2026-10-19,Absent
+22RP002,Aline Mukamana,Databases,2026-10-06,Present
+22RP002,Aline Mukamana,Databases,2026-10-13,Present
+22RP002,Aline Mukamana,Databases,2026-10-20,Absent
